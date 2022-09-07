@@ -1,0 +1,15 @@
+.card{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px 210px 80px;
+    grid-template-areas: "image" "text";
+background-color: red;
+    border-radius: 18px;
+    background-color: white;
+    text-align: center;
+}
+.card img{
+
+
+    width: 300px;
+}
